@@ -1,0 +1,3 @@
+[submodule "abpcrawler"]
+	path = abpcrawler
+	url = git@github.com:adblockplus/abpcrawler.git
